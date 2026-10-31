@@ -1,0 +1,6 @@
+{
+  "name": "KaryaVilla Supply — Sistem Invoice, Stok & Laba Supplier Villa",
+  "description": "Aplikasi manajemen bisnis supplier villa terpadu untuk membuat invoice profesional, memantau stok gudang real-time, dan menghitung keuntungan (laba bersih & HPP) secara akurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
